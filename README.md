@@ -1,5 +1,5 @@
 # python-amazon-webscraper
-Retrieve products name, price, descriptions, specifications
+Retrieve products name, price, descriptions, and specifications
 
 A simple and user-friendly command-line Amazon Product Web scraper app built with Python.
 Users can input an Amazon URL, and get the products name, price, description and specifications all that can be saved to a text file.
